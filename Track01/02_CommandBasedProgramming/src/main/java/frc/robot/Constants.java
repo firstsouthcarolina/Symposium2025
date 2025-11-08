@@ -16,4 +16,8 @@ public final class Constants {
   public static class ControllerConstants {
     public static final int kDriverControllerPort = 0;
   }
+
+  public static class PhoenixConstants {
+    public static final double kStatusSignalUpdateFrequencyHz = 50.0;
+  }
 }
